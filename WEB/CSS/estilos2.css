@@ -1,0 +1,41 @@
+p
+{
+    background: rgb(29, 17, 17); /* Cor do fundo */
+    text-align: center; /* Alinhamento do texto */
+    text-decoration: none; /* Cor da decoração do texto */
+    color: rgb(255, 255, 255); /* Cor do texto */
+}
+
+#p1
+{
+    font-size: 56px;
+    text-align: right; /* Alinhamento do texto */
+    color: rgb(255, 0, 0); /* Cor do texto */
+    text-decoration: underline; /* Cor da decoração do texto */
+}
+
+body
+{
+    background: rgb(121, 0, 94); /* Cor do fundo */
+    text-align: center; /* Alinhamento do texto */
+    text-decoration: none; /* Cor da decoração do texto */
+    color: rgb(255, 255, 255); /* Cor do texto */
+}
+
+span
+{
+    background: rgb(1, 75, 75); /* Cor do fundo */
+    text-align: center; /* Alinhamento do texto */
+    text-decoration: none; /* Cor da decoração do texto */
+    color: rgb(255, 255, 255); /* Cor do texto */
+    font-weight: bold; /* tipo de fonte */
+}
+
+.verde
+{         /*Alterar forrmatação de tags com a classe "verde" */
+    background: greenyellow; /* Cor do fundo */
+    text-align: center; /* Alinhamento do texto */
+    text-decoration: none; /* Cor da decoração do texto */
+    font-size: 42px; /* Tamanho da fonte */
+    color: rgb(255, 255, 255); /* Cor do texto */
+}

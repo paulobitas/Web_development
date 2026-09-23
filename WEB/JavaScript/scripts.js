@@ -14,9 +14,7 @@ function perguntar()
     else
     {
         alert("Olá, Criatura sem Nome!");
-    }
-    
-
+    }    
 }
 
 function mudar_texto() /*ambos os métodos funcionam, mas o querySelector é mais moderno e recomendado*/
@@ -55,6 +53,5 @@ function mudar_texto() /*ambos os métodos funcionam, mas o querySelector é mai
         var valor = parseInt(contador.innerText);
         valor++;
         contador.innerText= valor;
-    }
-    
+    }    
 }
